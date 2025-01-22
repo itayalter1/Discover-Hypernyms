@@ -1,5 +1,4 @@
 
-```markdown
 # 📚 Discover Hypernyms  
 
 **Discover Hypernyms** is a Java-based command-line tool for identifying hypernyms (broad categories) for a given word (lemma) within a corpus of text files. It uses regular expressions to analyze noun phrases in text and outputs the results sorted by frequency.  
