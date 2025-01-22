@@ -1,9 +1,3 @@
-### Short Description (Less than 350 characters):  
-A Java-based project to discover hypernyms (broad categories) for a given word (lemma) within a corpus. The program processes text using multiple regex patterns, extracts noun phrases, and counts hypernyms. Results are sorted and displayed in descending order of frequency.
-
----
-
-### README:  
 
 ```markdown
 # 📚 Discover Hypernyms  
@@ -110,8 +104,3 @@ System.out.println(map);
 
 ---
 
-## 👨‍💻 Author  
-Itay Alter  
-```
-
-Let me know if you'd like any changes! 😊
